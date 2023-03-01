@@ -1,0 +1,226 @@
+00:02:23	Felix Waldmann:	Hello everyone.
+00:02:28	Felix Waldmann:	Thank you for joining today's lesson.
+00:02:39	Felix Waldmann:	I will just wait 3 minutes before I start, in order to allow other students to join.
+00:03:06	iPad:	hallo
+00:03:11	iPad:	ok
+00:04:59	YiFeng Wang:	yes
+00:08:03	Felix Waldmann:	http://course.sdu.edu.cn/G2S/eWebEditor/uploadfile/20140306165625006.pdf
+00:09:04	Felix Waldmann:	few23@cam.ac.uk
+00:09:48	Felix Waldmann:	The homework is optional.
+00:09:56	Felix Waldmann:	few23@cam.ac.uk - Dr Felix Waldmann
+00:10:21	Felix Waldmann:	Any questions before I start?
+00:10:35	Felix Waldmann:	You can raise your hand in Zoom.
+00:10:40	Felix Waldmann:	Or just type your question.
+00:10:59	Felix Waldmann:	Research paper format.
+00:14:36	Felix Waldmann:	My first question today:
+00:14:40	Felix Waldmann:	What is this paper about?
+00:17:54	Felix Waldmann:	The researchers believe they have identified a 'new' or 'original problem'.
+00:18:12	Felix Waldmann:	No one has ever studied this problem before. Therefore, they do not have to cite any other scholars.
+00:18:33	Felix Waldmann:	That is why this research paper has no Bibliography and no footnotes, endnotes, or internal references.
+00:19:24	Felix Waldmann:	trolley = tram
+00:19:27	Felix Waldmann:	train on the road
+00:20:47	Felix Waldmann:	My second question: What is this paper about?
+00:21:39	Felix Waldmann:	This is an example of a research paper in philosophy.
+00:21:52	Felix Waldmann:	Notice that the author of this research paper uses the 'first person': 'I'.
+00:22:09	Felix Waldmann:	'Everybody to whom I have put this hypothetical case'
+00:22:17	Felix Waldmann:	Normally, you should not use 'I' in a research paper.
+00:22:29	Felix Waldmann:	Instead, you should use the 'third person' singular: 'This article', 'It',
+00:22:42	Felix Waldmann:	Or the 'first person' plural: 'We argue', 'We claim'
+00:23:02	Felix Waldmann:	Some disciplines, such as Philosophy, allow you to use the first person: 'I'.
+00:23:11	Felix Waldmann:	Let's look at one more example.
+00:24:58	Felix Waldmann:	Notice that the author of this research paper is using the first person ('I') and he is using a personal story or 'anecdote'.
+00:25:03	Felix Waldmann:	This is a very unusual research paper.
+00:25:17	Felix Waldmann:	I would argue that it is an example of an 'essay', and not a research paper.
+00:25:21	Felix Waldmann:	This is because it is informal.
+00:25:29	Felix Waldmann:	It using the author's subjective experience.
+00:25:44	Felix Waldmann:	1. What is the difference between a 'research paper' and an 'essay'?
+00:25:52	Felix Waldmann:	(I) Structure: an academic essay will tend not to have sub-heading structure (Part 1, 2, 3,...) nor will it tend to have a full-scale scholarly 'apparatus' (that is, it will not tend to use footnotes or end-notes).
+00:26:08	Felix Waldmann:	(II) Style: an academic essay will tend not to adopt the main stylistic qualities of a research paper. A research paper is impartial, objective, it tends not to use the 1st-person singular ('I') instead it uses the impersonal 3rd-person singular or 1st-person plural ('this essay will argue' or 'we will argue').
+00:26:47	Felix Waldmann:	In general, most of you will be writing *research papers* and not *academic essays*.
+00:26:50	Felix Waldmann:	An example of an academic essay assignment involves a question like the following: "Do you believe that it is right to eat meat?"
+00:27:09	Felix Waldmann:	This question requires a personal / 'subjective' response: "I do not believe it is right to eat meat"
+00:27:16	Felix Waldmann:	This question does not necessarily require you to engage with or discuss any scholarly literature (that is, you do not need to use footnotes or endnotes).
+00:27:36	Felix Waldmann:	An example of a research paper question is different. It will not ask what *you* feel or believe is right. But it will ask a general question, such as "Discuss the scholarly consensus on whether eating meat is morally defensible."
+00:28:00	Felix Waldmann:	The focus of this course is very much on how to write a *research paper*. It is not on how to write an *academic essay*.
+00:28:21	Felix Waldmann:	Research papers tend necessarily to engage with relevant scholarly literature by citing the literature or summarizing the literature and / or debating with the literature.
+00:28:34	Felix Waldmann:	What if a research paper is producing original research? That is, there is no scholarly literature to engage with.
+00:28:55	Felix Waldmann:	The example of the mathematics paper, about waiting for the bus, is an 'original' research paper.
+00:29:03	Felix Waldmann:	They are discussing a problem that they believe no one else has ever discussed; therefore, they do not have to cite any scholarly literature.
+00:29:27	Felix Waldmann:	Citation is the key to a research paper.
+00:29:34	Felix Waldmann:	We'll now discuss citation.
+00:30:14	Felix Waldmann:	Citation
+00:30:26	Felix Waldmann:	'Reference' to the research of another scholar.
+00:30:32	Felix Waldmann:	An example of a citation would be following:
+00:30:47	Felix Waldmann:	'Professor Smith has argued that climate change is damaging the environment (Smith 1997, p. 20)'.
+00:30:58	Felix Waldmann:	(Smith 1997, p. 20) = citation
+00:31:36	Felix Waldmann:	My next question: Which of these examples is incorrect?
+00:36:12	Felix Waldmann:	There are 4 main citation formats.
+00:36:14	Felix Waldmann:	MLA Formathttps://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_formatting_and_style_guide.htmlAPA Formathttps://www.mendeley.com/guides/apa-citation-guide/Chicago Style Formathttps://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-1.html IEEE formathttps://www.bath.ac.uk/publications/library-guides-to-citing-referencing/attachments/ieee-style-guide.pdf
+00:36:20	Felix Waldmann:	MLA
+00:36:21	Felix Waldmann:	APA
+00:36:24	Felix Waldmann:	Chicago Style
+00:36:26	Felix Waldmann:	IEEE
+00:36:32	Felix Waldmann:	MLA/APA = very similar
+00:36:42	Felix Waldmann:	Chicago Style = different to MLA/APA and IEEE
+00:36:50	Felix Waldmann:	IEEE = different to Chicago Style and MLA/APA
+00:37:02	Felix Waldmann:	MLA, APA, and IEEE are all examples of 'in-text' citation.
+00:37:10	Felix Waldmann:	Chicago Style uses footnotes/endnotes.
+00:37:39	Felix Waldmann:	MLA/APA
+00:37:53	Felix Waldmann:	There is another style, called 'Harvard Style', which is a variant of MLA/APA.
+00:38:07	Felix Waldmann:	If someone says 'please use Harvard Style', it means 'please use MLA/APA style'.
+00:38:22	Felix Waldmann:	As a general rule, the following formats of citation are used by the following disciplines:
+00:38:32	Felix Waldmann:	1. MLA/APA/IEEE formats are used by the Natural Sciences, Mathematics, and Social Sciences.
+00:38:40	Felix Waldmann:	2. Chicago Style citation is used by the Humanities (English literature, History, Classics, Art History).
+00:38:53	Felix Waldmann:	Disciplines like law tend to have their own format of citation - legal citation in the UK/US is similar to Chicago Style.
+00:39:18	Felix Waldmann:	What is a simplified version of MLA/APA citation?
+00:39:23	Felix Waldmann:	Example
+00:39:24	Felix Waldmann:	"Political scientists have argued for many decades about whether a "just war theory" can be defended (Hoffman 1991, Tuck 1999, Hochchild 2006).”
+00:39:42	Felix Waldmann:	Your professor will see that you have cited Hoffman 1991 and they will then consult your Bibliography, where they will find the *full citation*:
+00:39:54	Felix Waldmann:	Hoffman, S. (1991) Just War Theory. Cambridge, MA: Harvard University Press.
+00:40:10	Felix Waldmann:	Here is an example of Chicago Style citation:
+00:40:16	Felix Waldmann:	"Political scientists have argued for many decades about whether a "just war theory" can be defended (footnote 1)."
+00:40:27	Felix Waldmann:	Footnote 1 then reads: Stanley Hoffman, Just War Theory (Cambridge, MA: Harvard University Press, 1991); Richard Tuck, Just War Theory (Oxford: Oxford University Press, 1999); John Hochchild, Just War Theory (Princeton, NJ: Princeton University Press, 2006).
+00:40:45	Felix Waldmann:	Your professor will see that you have cited Hoffman 1991 and they will then consult your Bibliography, where they will find the *full citation* again:
+00:41:13	Felix Waldmann:	Hoffman, Stanley. Just War Theory (Cambridge, MA: Harvard University Press, 1991).
+00:41:23	Felix Waldmann:	IEEE
+00:41:36	Felix Waldmann:	Political scientists have argued for many decades about whether a "just war theory" can be defended [1], [4], [6].
+00:42:04	Felix Waldmann:	Your professor will see that you have cited Hoffman 1991 and they will then consult your Bibliography, where they will find a numbered list [1], [2], ...
+00:42:12	Felix Waldmann:	[1] Hoffman, S. (1991) Just War Theory. Cambridge, MA: Harvard University Press.
+00:42:37	Felix Waldmann:	[4] Tuck, R. (1999) Just War Theory. Oxford: Oxford University Press.
+00:43:09	Felix Waldmann:	To what extent will my professor penalize me if I do not use the correct format of citation?
+00:43:24	Felix Waldmann:	It is possible your professor will penalize you.
+00:43:29	Felix Waldmann:	My suggestion is that you try to use 'citation software' when you are writing your research paper.
+00:43:35	Felix Waldmann:	The two forms of citation software I recommend are
+00:43:40	Felix Waldmann:	1. Zotero (free)
+00:43:44	Felix Waldmann:	2. Endnote (requires subscription)
+00:43:52	Felix Waldmann:	These pieces of software will generate the correction citation format for you; once you input the details of the publication.
+00:44:03	Felix Waldmann:	https://www.zotero.org/
+00:44:33	Felix Waldmann:	Let's look at a few examples
+00:44:34	Felix Waldmann:	IEEE
+00:45:39	Felix Waldmann:	https://arxiv.org/pdf/1907.02912.pdf
+00:45:43	Felix Waldmann:	MLA/APA
+00:46:02	Felix Waldmann:	https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2444233
+00:46:44	Felix Waldmann:	Chicago Style
+00:47:11	Felix Waldmann:	https://onlinelibrary.wiley.com/doi/abs/10.1111/jopp.12215
+00:47:49	Felix Waldmann:	Any questions about citation?
+00:48:29	Felix Waldmann:	For our homework, you can use any format:
+00:48:36	Felix Waldmann:	MLA / APA, Chicago Style or IEEE.
+00:48:51	Felix Waldmann:	For our professors at school and university, always check which format of citation they require.
+00:48:57	Felix Waldmann:	your* professors
+00:49:08	Felix Waldmann:	Any other questions?
+00:49:18	Felix Waldmann:	Plagiarism
+00:49:31	Felix Waldmann:	Many Universities use the software provided by https://www.turnitin.com/ to detect 'plagiarism' in the work submitted by their students.
+00:49:50	Felix Waldmann:	Plagiarism = copying of other scholars' or students' work.
+00:50:24	Felix Waldmann:	This is an example of a turnitin plagiarism report from a student at the University of Cambridge.
+00:51:15	Felix Waldmann:	32% = typically an example of plagiarism
+00:51:31	Felix Waldmann:	You should have a score of at most 15% depending on whether you have used appropriate references/citations.
+00:52:18	Felix Waldmann:	Student copied from: https://plato.stanford.edu/entries/scientific-method/
+00:53:12	Felix Waldmann:	STANFORD: The basic idea is there are two “directions” to proceed in our methods of inquiry: one away from what is observed, to the more fundamental, general, and encompassing principles; the other, from the fundamental and general to instances or implications of principles.
+00:54:19	Felix Waldmann:	STUDENT: 'scientists were not invent systems but infer explanations from observation, as Bacon had advocated'.
+00:54:39	Felix Waldmann:	STANFORD ENCYCLOPEDIA: The scientist was not to invent systems but infer explanations from observations, as Bacon had advocated.
+00:54:54	Felix Waldmann:	Do you agree that the student has plagiarised?
+00:55:11	Felix Waldmann:	Here's a copy of the report.
+00:55:32	Felix Waldmann:	My next question:
+00:55:37	Felix Waldmann:	What if the student wrote the following:
+00:55:47	Felix Waldmann:	STUDENT: The scientist was not to invent systems but infer explanations from observations, as Bacon had advocated (Stanford 2017)
+00:56:02	Felix Waldmann:	Notice the student now uses (Stanford 2017)
+00:56:43	Felix Waldmann:	If you use citation, but the wording is exactly the same, is it plagiarism?
+00:56:50	Felix Waldmann:	Yes.
+00:57:11	Felix Waldmann:	If you are using the same wording as the source, then you must use 'inverted commas' / 'quotation marks' -- ''
+00:57:31	Felix Waldmann:	STUDENT: The scientist 'was not to invent systems but infer explanations from observations, as Bacon had advocated' (Stanford 2017).
+00:57:40	Felix Waldmann:	Notice the student uses 'inverted commas'
+00:57:49	Felix Waldmann:	In this case, the student hasn't plagiarised.
+00:57:55	Felix Waldmann:	The student has properly cited the source.
+00:58:11	Felix Waldmann:	What about 'paraphrasing'?
+00:58:19	Felix Waldmann:	STANFORD ORIGINAL: The scientist was not to invent systems but infer explanations from observations, as Bacon had advocated.
+00:59:07	Felix Waldmann:	STUDENT PARAPHRASE: Scientists were told by Bacon that creating systems was not their role. Instead, they were to use inference to generate explanations, and they were to base their inference on observation (Stanford 2017).
+00:59:26	Felix Waldmann:	This is an example of paraphrasing.
+00:59:29	Felix Waldmann:	It is not plagiarism/
+00:59:31	Felix Waldmann:	.*
+00:59:33	Felix Waldmann:	This is OK.
+00:59:48	Felix Waldmann:	But notice the student sill cites the source (Stanford 2017).
+00:59:55	Felix Waldmann:	still* cites
+01:00:07	Felix Waldmann:	Any questions?
+01:01:11	Felix Waldmann:	The left hand column plagiarises from the right hand column
+01:01:31	Felix Waldmann:	Plagiarism = copying from another source, without inverted commas / without citation.
+01:01:39	Felix Waldmann:	In this example, you can see another form of copying.
+01:01:46	Felix Waldmann:	'Sequence copying'.
+01:01:52	Felix Waldmann:	Notice that the colours occur in the same sequence.
+01:01:58	Felix Waldmann:	Yellow, green, blue, purple.
+01:02:12	Felix Waldmann:	The author on the left is copying the same sequence of ideas as the author on the right.
+01:02:32	Felix Waldmann:	Be careful not to just copy the exact sequence of the source.
+01:03:15	Felix Waldmann:	Writing an Introduction to a research paper.
+01:03:37	Felix Waldmann:	Sample Introductions to research papers by students from the University of Cambridge.
+01:03:45	Felix Waldmann:	These are anonymized examples.
+01:04:13	Felix Waldmann:	These are History research papers.
+01:04:29	Felix Waldmann:	The question is about the writer Mary Wollstonecraft.
+01:04:35	Felix Waldmann:	She lived in the 18th century.
+01:04:48	Felix Waldmann:	She wrote a book about female rights in 1792, called A Vindication of the Rights of Woman.
+01:06:12	Felix Waldmann:	My question to you:
+01:06:17	Felix Waldmann:	Is this a good Introduction?
+01:10:26	Felix Waldmann:	Do you think it's relevant to answer the question?
+01:11:11	Felix Waldmann:	tangent = irrelevant discussion
+01:12:35	Felix Waldmann:	Notice that the statements are ridiculous / silly.
+01:12:41	Felix Waldmann:	'She was the daughter of a mother'.
+01:12:48	Felix Waldmann:	= True of every female human being.
+01:13:49	Felix Waldmann:	Do you think this is a good sentence?
+01:14:19	Felix Waldmann:	My question:
+01:14:28	Felix Waldmann:	Do you think the student should have shortened the sentence?
+01:14:34	Felix Waldmann:	It is a long sentence: it's 56 words.
+01:15:15	Felix Waldmann:	Notice how the student uses 'sub-clauses'
+01:15:32	Felix Waldmann:	My advice is to avoid the use of sub-clauses.
+01:17:27	Felix Waldmann:	Why are long sentences a problem?
+01:17:33	Felix Waldmann:	Long sentences can be difficult to understand.
+01:17:41	Felix Waldmann:	They create unnecessary problems for the reader.
+01:17:47	Felix Waldmann:	Shorter sentences are usually clearer.
+01:18:07	Felix Waldmann:	The main issue can be that it is difficult to identify the 'subject' the verb in a long sentence.
+01:18:12	Felix Waldmann:	An example:
+01:19:14	Felix Waldmann:	'She, aside from being a wonderful mother and housewife, and aside from being able to help her daughter with homework, could not always discover, despite her daughter's great help, whether it was necessary for her to use the kitchen at the right time, or whether, as was suggested, she should use the dining room instead'.
+01:19:43	Felix Waldmann:	Notice how it is extended through the use of sub-clauses.
+01:19:51	Felix Waldmann:	In many ways, it is hard to follow.
+01:20:21	Felix Waldmann:	My advice is therefore to use shorter sentences.
+01:20:58	Felix Waldmann:	Karl Marx, theorist of communism.
+01:22:44	Felix Waldmann:	Is this a good introduction?
+01:26:13	Felix Waldmann:	'Vague' and 'unclear' writing.
+01:26:52	Felix Waldmann:	INTRODUCTION COMPONENTS1. Directly addressing the question2. Engaging with scholarly literature - either by quotation from the scholarly literature or 3. Defining relevant terminology, if necessary4. Providing a structure for your response: first, second, third; 'in the first section, the essay will discuss ...'5. Providing a clear statement of the research question / focus / argument of the research paper.
+01:33:15	Felix Waldmann:	What about 'defining' terminology?
+01:33:24	Felix Waldmann:	Does the student have to define 'torture'?
+01:33:58	Felix Waldmann:	Maybe the student has to clarify what *types* of torture he is discussing.
+01:34:21	Felix Waldmann:	Does the student have to define 'utilitarian'?
+01:35:09	Felix Waldmann:	This is a complex philosophical theory.
+01:35:19	Felix Waldmann:	It refers to the idea that we must 'maximize happiness for as many people as possible'.
+01:35:24	Felix Waldmann:	'Utility' = 'happiness'
+01:35:39	Felix Waldmann:	'Utilitarian' is someone who believes in maximizing happiness for as many people as possible.#
+01:35:57	Felix Waldmann:	My criticism of the student is that he should clarify what he means by 'utilitarian'.
+01:36:26	Felix Waldmann:	What is missing from this reference to Professor Dershowitz?
+01:36:57	Felix Waldmann:	There's no citation: no MLA/APA/EEEE/Chicago Style.
+01:37:23	Felix Waldmann:	This is another criticism. You must provide a citation when referring to the work of a professor.
+01:37:36	Felix Waldmann:	'No'
+01:38:05	Felix Waldmann:	Another criticism: do not begin your research paper by writing 'No', 'Yes', in response to the question.
+01:38:49	Felix Waldmann:	If you can't download anything I have sent, please email me: few23@cam.ac.uk
+01:39:00	Felix Waldmann:	I'll send you the files directly via email.
+01:43:18	Felix Waldmann:	One page, double spaced, respond to the following question: ‘Is eating meat morally defensible?’
+01:43:59	Felix Waldmann:	What is an argument for or against eating the meat of an animal?
+01:44:40	Felix Waldmann:	Willy: it is justified because humans need a source of food to survive. Moreover, humans can establish farms to help the animals they eat to reproduce.
+01:46:09	Felix Waldmann:	YiFeng: eating meat is justified by the need to obtain protein or other sources for their health, and this could create disorder and chaos.
+01:46:34	Felix Waldmann:	if humans are  not permitted to eat meat.
+01:46:44	Felix Waldmann:	Any arguments against eating meat?
+01:47:11	Felix Waldmann:	Against: eating meat requires the death of animals, and animals are friends to humans.
+01:47:36	Felix Waldmann:	Against: humans do not have the right to kill other life on earth, because of the equal rights of creatures.
+01:48:02	Felix Waldmann:	Against: we can eat things other than meat, such as tofu, which provide an adequate substitute for meat.
+01:48:35	Felix Waldmann:	For: we must eat meat because cows, chickens, and other creatures have adapted to life in farms, and if we release them into the natural environment they will not survive.
+01:49:18	Felix Waldmann:	We need to use your arguments to create an Introduction.
+01:49:27	Felix Waldmann:	The Introduction should use the five components we've identified.
+01:50:00	Felix Waldmann:	For your homework, you can use the arguments we've identified in the chat, and you can write your statement.
+01:50:05	Felix Waldmann:	1 page.
+01:50:07	Felix Waldmann:	Introduction
+01:50:11	Felix Waldmann:	1 Paragraph
+01:50:13	Felix Waldmann:	Conclusion
+01:50:19	Felix Waldmann:	The homework is optional.
+01:50:27	Felix Waldmann:	If you want to send it to me: few23@cam.ac.uk
+01:50:36	Felix Waldmann:	Q&A
+01:51:27	Felix Waldmann:	‘Is eating meat morally defensible?’
+01:51:50	Felix Waldmann:	Eating meat is morally defensible. The following essay will defend this proposition in three sections. First, the essay will argue...
+01:52:40	Felix Waldmann:	You don't need quotes for the homework.
+01:52:44	Felix Waldmann:	You can invent quotes.
+01:52:57	Felix Waldmann:	You can invent 'Professor Smith has argued that "eating meat is morally wrong" (Smith 1997)'
